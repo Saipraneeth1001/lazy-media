@@ -10,7 +10,7 @@ export default function App() {
       <Hero />
       <Services />
       <About />
-      <Team />
+      {/* <Team /> */}
       <Contact />
     </>
   );
