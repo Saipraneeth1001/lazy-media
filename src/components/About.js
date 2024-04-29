@@ -47,7 +47,7 @@ const links = [
           <div className="mx-auto max-w-2xl lg:mx-0">
             <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">About us</h2>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-            Lazy Media Network is a team of passionate social media mavens dedicated to leveraging the power of social platforms for your brand. We understand the intricacies of social networks and use our knowledge to your advantage.
+            Amplyfy is a team of passionate social media mavens dedicated to leveraging the power of social platforms for your brand. We understand the intricacies of social networks and use our knowledge to your advantage.
             </p>
           </div>
         </div>

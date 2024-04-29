@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-import Logo from "../lazy-media-network.png";
+import Logo from "../amplyfy.png";
 
 const navigation = [
   { name: "Services", href: "#services" },
@@ -138,10 +138,10 @@ export default function Hero() {
           </div> */}
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Welcome to Lazy Media Network
+              Welcome to Amplyfy
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              At Lazy Media Network, we propel your online presence to new
+              At Amplyfy, we propel your online presence to new
               heights. Our team of experts specializes in crafting unique social
               media strategies that elevate your brand, engage your audience,
               and drive results. Experience the power of professional social
